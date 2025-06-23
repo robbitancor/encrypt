@@ -1,3 +1,6 @@
+> [!CAUTION]
+> I'm not being able to properly maintain this package, so it is being archived. Feel free to use some fork as an alternative.
+
 # encrypt
 
 [![Pub Package](https://img.shields.io/pub/v/encrypt.svg)](https://pub.dartlang.org/packages/encrypt)
