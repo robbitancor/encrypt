@@ -1,6 +1,8 @@
 import 'package:encrypt/encrypt.dart';
 import 'package:test/test.dart';
 
+import '../lib/encrypt.dart';
+
 void main() {
   group('Battle test', () {
     test('Emoji', () {
